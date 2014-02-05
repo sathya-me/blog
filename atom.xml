@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://sathya-me.github.io//github/atom.xml" rel="self"/>
+  <link href="http://sathya-me.github.io//github/"/>
+  <updated>2014-02-05T19:39:43+05:30</updated>
+  <id>http://sathya-me.github.io//github/</id>
+  <author>
+    <name><![CDATA[Sathya Narayanan]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    
+    <title type="html"><![CDATA[Hello Octopress]]></title>
+    <link href="http://sathya-me.github.io//github/2013/09/04/hello-octopress/"/>
+    
+    <updated>2013-09-04T12:59:00+05:30</updated>
+    <id>http://sathya-me.github.io//github/2013/09/04/hello-octopress</id>
+    
+    <content type="html"><![CDATA[<p>Hello World</p>
+
+<p>This is my first post using octopress&hellip;</p>
+]]></content>
+    
+  </entry>
+  
+</feed>

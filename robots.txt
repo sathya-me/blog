@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://sathya-me.github.io//github/sitemap.xml 

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://sathya-me.github.io//github/2013/09/04/hello-octopress/</loc>
+        <lastmod>2014-02-05T19:35:49+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://sathya-me.github.io//github/archives/</loc>
+        <lastmod>2014-02-05T19:35:49+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://sathya-me.github.io//github/</loc>
+        <lastmod>2014-02-05T19:35:49+05:30</lastmod>
+    </url>
+    <url>
+        <loc>http://sathya-me.github.io//github/robots.txt</loc>
+        <lastmod>2014-02-05T19:35:49+05:30</lastmod>
+    </url>
+</urlset>
